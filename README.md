@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, My name is Adeyinka and I do Data
+#### Data Analyst / Data storyteller/ Data writer
+![Data Analyst / Data storyteller/ Data writer](20230911_020246_0000.png)
 
-<!--
-**deyinkab/deyinkab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate data analyst with a keen eye for detail and a knack for transforming complex information into actionable insight
 
-Here are some ideas to get you started:
+Skills: Microsoft Excel / PowerBi / SQL / Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning and Documenting my data journey 
+- 👯 I’m looking to collaborate on Data Projects 
+- 🤔 I’m looking for help with A Job 
+- 💬 Ask me about Anything Data related 
+- 📫 How to reach me: Email:adeyinkabanjo001@gmail.com 
+- 😄 Pronouns: She/Her 
+- ⚡ Fun fact: I am the shortest in my family and I am very good with dates 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/deyinkab)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adeyinka -banjo-a92a2b251/)  
+
